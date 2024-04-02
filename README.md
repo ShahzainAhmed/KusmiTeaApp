@@ -1,4 +1,7 @@
-# KusmiTeaApp
+# Kusmi Tea App
+
+### LinkedIn Post:
+https://www.linkedin.com/feed/update/urn:li:activity:7180887470878695424/
 
 ### Preview:
 <div align="center">
