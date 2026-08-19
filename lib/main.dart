@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           scrollBehavior: const ScrollBehavior()
               .copyWith(overscroll: false, scrollbars: false),
           debugShowCheckedModeBanner: false,
-          title: 'Flutter Demo',
+          title: 'Kusmi Tea',
           theme: Themes.primaryTheme,
           home: const WelcomeScreen(),
         );
@@ -29,21 +29,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
-
-
-
-
-
-/* void main() {
-  runApp(
-    DevicePreview(
-      enabled: !kReleaseMode,
-      builder: (context) => const MyApp(),
-    ),
-  );
-
-    // SystemChrome.setSystemUIOverlayStyle(defaultOverlay);
-
-} */
